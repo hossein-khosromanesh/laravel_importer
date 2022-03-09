@@ -1,5 +1,12 @@
 # laravel_importer
 
+# First of all
+- create DB 
+- import db.sql to database
+- connect database to laravel project
+- you can set the credentials in config/app database file
+- `php artisan migrate`
+
 # How to use 
 - download zip file 
 - create new folder and extract the file in new folder  
