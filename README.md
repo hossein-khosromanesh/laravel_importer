@@ -1,5 +1,9 @@
 # laravel importer Module
 
+# How it work 
+- its laravel module import data to database 
+- using domelement php for collecting data from html file
+
 # First of all
 
 - download zip file 
