@@ -1,8 +1,12 @@
 # laravel importer Module
 
 # How it work 
+
 - its laravel module import data to database 
 - using domelement php for collecting data from html file
+- nwidart/laravel-modules package using modules
+-  in module directory in root we have Importer module
+-  Importer module include using Importer service to parse data and using Importer repository to connection with database
 
 # First of all
 
